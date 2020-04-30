@@ -15,4 +15,8 @@
 
 <style scoped>
 
+	h2 {
+		color: #99fec5;
+	}
+
 </style>
