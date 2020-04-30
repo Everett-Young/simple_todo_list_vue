@@ -16,7 +16,7 @@
 <style scoped>
 
 	h2 {
-		color: #99fec5;
+		color: #4d8566;
 	}
 
 </style>
