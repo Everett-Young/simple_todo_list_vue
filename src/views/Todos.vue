@@ -15,7 +15,7 @@
 				v-bind:todos="filteredTodo"
 				@remove-todo="removeTodo"
 		></TodoList>
-		<p v-else> No toods!</p>
+		<p v-else> No toods!!</p>
 	</div>
 </template>
 
